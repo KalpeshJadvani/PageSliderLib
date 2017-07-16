@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <com.example.pageslider.PagerSlidingTab
+            android:id="@+id/slidingTab"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/sliding_tab_strip_background"
+            app:allowWidthFull="true"
+            app:slidingBlock="@drawable/image_sliding_block">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    style="@style/TabTitle"
+                    android:text="Page1" />
+
+                <TextView
+                    style="@style/TabTitle"
+                    android:text="Page2" />
+
+                <TextView
+                    style="@style/TabTitle"
+                    android:text="Page3" />
+
+                <TextView
+                    style="@style/TabTitle"
+                    android:text="Page4" />
+
+                <TextView
+                    style="@style/TabTitle"
+                    android:text="Page5" />
+            </LinearLayout>
+        </com.example.pageslider.PagerSlidingTab>
+
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+            <android.support.v4.view.ViewPager
+                android:id="@+id/viewPager"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+
+        </FrameLayout>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prashant\.android\build-cache\2190a76559e6fcd625195cdead274f0bb68b4c38\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\Kalpesh\PageSliderLib\app\build\intermediates\pre-dexed\debug\classes_ae32bfe88ea6139e9986b34b5c36f8b193a7d905.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prashant\.android\build-cache\8bc74fbee798e37146f053a1dc7ea67919890c05\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\Kalpesh\PageSliderLib\app\build\intermediates\pre-dexed\debug\classes_2645a6b5f86a4053eb286863d82aabae854a62d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prashant\.android\build-cache\3876cd1371e3f4084b886a7c870d38be2a736669\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\Kalpesh\PageSliderLib\app\build\intermediates\pre-dexed\debug\classes_91d368b85e3b9344a6c4fdcb255e0df19ce75100.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Kalpesh\PageSliderLib\pageslider\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9984e44825995c0b0a0a015b788f8d40f2e1770a">
+        <dex dex="D:\Kalpesh\PageSliderLib\app\build\intermediates\pre-dexed\debug\classes_292e6e526997239fc192c93da9598995913bbbfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prashant\.android\build-cache\6cf4aba0a224d21f4250ae9c5059b46d0323489e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Kalpesh\PageSliderLib\app\build\intermediates\pre-dexed\debug\classes_573cb368039a5e5ab30cbd9c53be45e18d75dc97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prashant\.android\build-cache\bf532f60045f970d05954d07b731073b5f3abca6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\Kalpesh\PageSliderLib\app\build\intermediates\pre-dexed\debug\classes_cbbb5207d27a57208c85a5fa590338f3c4412886.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prashant\.android\build-cache\8e2aae528966e8471380501ee98870e158e7d47f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\Kalpesh\PageSliderLib\app\build\intermediates\pre-dexed\debug\classes_168fb73d231f2ef9a4424217da3e16a7681ee5c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prashant\.android\build-cache\48245f9a6d7986e5eb3996c556411aab20ce49fb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\Kalpesh\PageSliderLib\app\build\intermediates\pre-dexed\debug\classes_68eb6287b4c605f1f0ff4e81e5bcbf7c96705e3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\F\Android\android-sdk-windows-1.6_r1\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Kalpesh\PageSliderLib\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_dddbe9808141468ac5f0b10f7e582d175f0f1d9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prashant\.android\build-cache\396a09d21466f9fb3ef6fc38cd7fd82bc668b4f5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\Kalpesh\PageSliderLib\app\build\intermediates\pre-dexed\debug\classes_df3f666877a77f4527dd92eb7426b62979f3ef9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\F\Android\android-sdk-windows-1.6_r1\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\Kalpesh\PageSliderLib\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_fb8668ef45c1f07b13c3d496faa696daebf24763.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prashant\.android\build-cache\8d17d8cb082ff235f0005f5dd699062a4282049c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Kalpesh\PageSliderLib\app\build\intermediates\pre-dexed\debug\classes_f5fbca141c0488a3847afe50f242de6e64c51aa7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Prashant\.android\build-cache\5d63b1c293d6393a80c93f1ea1c6d1e477b43030\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\Kalpesh\PageSliderLib\app\build\intermediates\pre-dexed\debug\classes_badde10334855c1734dd8798bd9df5fb4cb0a216.jar" />
+    </item>
+
+</items>
